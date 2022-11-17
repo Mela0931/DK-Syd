@@ -5,7 +5,10 @@ ul {
     overflow: hidden;
     background-color: #131944;
   }
-  
+  li img{
+    width: 100px;
+  }
+
   li {
     float: left;
     border-right:1px solid #bbb;
@@ -118,6 +121,10 @@ ul {
       opacity: 1;
     }
 
+
+.hero img{
+  width: 89em;
+}
 .demo-video {
   position: absolute;
   width: 1200px;
